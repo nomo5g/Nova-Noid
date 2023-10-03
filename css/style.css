@@ -1,0 +1,296 @@
+body {
+    margin: 0;
+}
+
+img{
+    max-width: 100%;
+}
+#d2{
+    height: 100vh;
+    background-image: url(../img/img2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dlist{
+    display:inline-table; 
+     position: fixed;
+    background: rgb(11, 10, 15);
+    color:#fff;
+    list-style: none;
+    text-align: right;
+    padding: 20px;
+    padding-right:1000px;
+    display:inline-table; 
+    position: fixed;
+   background: rgb(11, 10, 15);
+   margin-top:0px;
+} 
+.kol {
+    color: #fff;
+    padding-right:40%;
+    font-size: medium;
+}
+dd{
+    display: inline;
+    margin-right:10px;
+    cursor: pointer;
+    padding-right:20px;
+    font-size: small;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+a:hover{
+    color:dodgerblue;
+}
+#header { bottom: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+    text-align: center;
+}
+.about-sec{
+    padding: 70px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item{width: 33%;
+    min-height: 150;
+    margin: 10px;
+}
+.item h3 {
+    margin-left: 32px;
+}
+.item p{
+    margin-left: 55px;
+}
+.item svg{
+    float: left;
+    margin: 20px;
+}
+hr{
+    width:5%;
+}
+#work-sec {
+    text-align: center;
+    background-color: rgb(234, 240, 240);
+    padding:50px;
+}
+ul{
+    list-style: none;
+    padding: 50px;
+}
+li{
+    display: inline;
+    margin: 15px;
+}
+li:hover{
+    color:dodgerblue;
+    cursor: pointer;
+}
+#about-sec3{
+    padding-top: 20px;
+}
+.sec3{
+    text-align: center;
+}
+.item3{
+    text-align: center;
+    padding:10px;
+}
+.item4{
+    text-align: center;
+padding: 10px;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:20px;
+}
+.item5{
+    text-align: center;
+    font-size: large;
+    color: #fff;
+}
+.icon{
+    /* width:50px; */
+    color: red;
+}
+.text5{
+    text-align: center;
+    color: #fff;
+}
+.b5{
+text-align: center;
+cursor: pointer;
+}
+.about-sec4{
+    background-image:url(../img/wallpaperflare.com_wallpaper\ \(1\).jpg);
+    background-size: cover;
+    padding: 70px;
+     background-attachment: fixed;
+}
+
+.see4{
+    text-align: left;
+    margin-left: 33px;
+    line-height: 5px;
+}
+#se4{
+    text-align: center;
+}
+.row4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 70px;
+}
+.row5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 70px;
+}    
+.line{
+    width:90%;
+}
+.icon5{
+    float:left;
+   padding:20px; 
+    font-size: 32px;
+} 
+.sel5{
+    padding-left:90px;
+    padding-bottom: 50px;
+}
+.sel8{
+    padding-right: 90px;
+}
+.head2{
+    margin-left:80px;
+     line-height: 10px;
+}
+#sec6{
+    text-align: center;
+    background-color: rgb(234, 240, 240);
+    padding:20px;
+    margin: 0%;
+}
+.sec6 h3{
+    padding:20px;
+}
+.border{
+    display: block;
+    margin: 15px;
+}
+.sam{
+    margin:60px;
+}
+.list{
+    background-color: #fff;
+}
+.ho3{
+    background-color: rgb(232, 236, 236);
+    height:40px;
+}
+#sec7{
+    padding: 30px;
+}
+.se7{
+    text-align: center;
+}
+.pra{
+    cursor: pointer;
+    border:20%
+}
+.rvw{
+    margin:40px;
+    left: 2px;
+}
+.rww{
+    margin:5px;
+}
+.but{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.button2{
+    cursor: pointer;
+}
+.tex8{
+    text-align: center;
+    padding: 40px;
+}
+.row8{display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.rew{
+    width:300px;
+    margin-left:150px;
+}
+.use{
+    text-align: center;
+}
+.ust{
+    width:20%;
+    height:30px;   
+}
+.usv{
+    width:20%;
+    height:30px;  
+}
+.uso{
+    height: 30px;
+    width:40%
+}
+.usu{
+    height:30%;
+    width: 40%;
+}
+#sec8{
+    background-color:rgb(232, 236, 236);
+    padding-bottom:30px;
+}
+.butt{
+    text-align: center;
+}
+.but2{
+    cursor: pointer;
+}
+.last{
+    background-color: rgb(58, 58, 58);
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+.item7{
+    padding-top:25px;
+    cursor: pointer;
+    gap: 16px;
+    display: flex;
+}
+
+.item7 svg{
+    color: #fff;
+}
+
+.row9{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item6{
+    padding-left:35px;
+    color: #fff;
+}
+.item8{
+    padding-right: 35px;
+    color: #fff;
+}
